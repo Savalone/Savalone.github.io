@@ -95,7 +95,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.petfriendlyhouse.com%2Fwp-content%2Fuploads%2F2019%2F09%2FBeagle-medium-sized-dog.jpg&f=1&nofb=1&ipt=f382023209268239049c19b68fa29ea5b179ccfa9231971c6f212cec057c42cb&ipo=images)
 
 ### Large image
 
