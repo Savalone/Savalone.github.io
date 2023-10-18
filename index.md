@@ -54,7 +54,7 @@ layout: default
 
 ## [](#htb-machines)Hackthebox Machines
 <br>
-Puedes ver las maquinas de _**Hackthebox**_ que he resuelto [aqui.](./blog)
+Puedes ver las maquinas de _**Hackthebox**_ que he resuelto [aqui.](/hackthebox)
 <br><br><br>
 * * *
 <br>
@@ -63,7 +63,7 @@ Puedes ver las maquinas de _**Hackthebox**_ que he resuelto [aqui.](./blog)
 </div>
 ## [](#thm-machines)Tryhackme Machines
 <br>
-Puedes ver las maquinas de _**Tryhackme**_ que he resuelto [aqui.](./blog)
+Puedes ver las maquinas de _**Tryhackme**_ que he resuelto [aqui.](/tryhackme)
 <br><br><br>
 * * *
 
