@@ -18,6 +18,6 @@ En esta seccion podras ver writeups de diferentes maquinas de Hackthebox:
 
 | Dificultad  |           Maquina         | Sistema operativo |
 |:------------|:--------------------------|:------------------|
-|             |                           |                   |
+|    Easy      |    [Codify](./Codify)   |      Linux        |
 |             |		                  |                   |
 
